@@ -1,2 +1,2 @@
 # rapidMRImorphometry
-This is a code repository for the data analysis and plotting that went into the following publication: {PLACEHOLDER TO BE UPDATED UPON PUBLICATION}
+This is a repository for the code to complete the data analysis and plotting for the following publication: {PLACEHOLDER TO BE UPDATED UPON PUBLICATION}
